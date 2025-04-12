@@ -1,0 +1,9 @@
+key.categories.orthoview=Ortho View
+key.orthoview.rest=Camera Rest
+key.orthoview.zoom_in=Camera Zoom In
+key.orthoview.zoom_out=Camera Zoom Out
+key.orthoview.rotate_left=Camera Turn Left
+key.orthoview.rotate_right=Camera Turn Right
+key.orthoview.rotate_up=Camera Turn Up
+key.orthoview.rotate_down=Camera Turn Down
+key.orthoview.preset=Camera Switch Preset

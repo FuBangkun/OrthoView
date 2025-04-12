@@ -1,0 +1,9 @@
+key.categories.orthoview=正交视角
+key.orthoview.rest=摄像头重置
+key.orthoview.zoom_in=摄像头放大
+key.orthoview.zoom_out=摄像头缩小
+key.orthoview.rotate_left=摄像头左转
+key.orthoview.rotate_right=摄像头右转
+key.orthoview.rotate_up=摄像头上转
+key.orthoview.rotate_down=摄像头下转
+key.orthoview.preset=摄像头切换预设
